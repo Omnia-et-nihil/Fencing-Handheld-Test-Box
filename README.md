@@ -1,6 +1,6 @@
 # Fencing-Handheld-Test-Box
 Hardware and software overview: https://youtu.be/j7mpaZ8sDjs  
-Functionality overview: insert youtube video  
+Functionality overview: https://youtu.be/PdIM2SgSRJE  
     
 Assembly notes:  
 If you choose to make the housing directly from the included files, you may need to make subtle changes based on the 3d printer/materials used. These were designed for printing on an Anycubic Photon S. 
